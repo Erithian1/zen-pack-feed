@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:leather",
+    "minecraft:leather"
+  ],
+  "result": {
+    "count": 6,
+    "id": "betterend:leather_stripe"
+  }
+}

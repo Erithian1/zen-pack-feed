@@ -1,0 +1,13 @@
+name = "Penchant"
+filename = "penchant-0.6.1+mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BTORUTmf/versions/E4tGEZIc/penchant-0.6.1%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "925fa123eb3ed29caf1d5f2f57212b2e19149127a69382bb2abfcc93570cafaeab54c8eefb1f1c424a90de66eb580bc4413169c08c44826756ab33adc9f5b3ed"
+
+[update]
+[update.modrinth]
+mod-id = "BTORUTmf"
+version = "E4tGEZIc"

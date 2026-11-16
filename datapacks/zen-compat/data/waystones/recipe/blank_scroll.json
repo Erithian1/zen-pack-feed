@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": "minecraft:barrier"
+  },
+  "pattern": [
+    "B"
+  ],
+  "result": {
+    "count": 3,
+    "id": "waystones:blank_scroll"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "penchant:replace_book_loot_tag",
+    "penchant:zombie_spawn_pickaxe",
+    "penchant:reworked_table_menu",
+    "penchant:lenient_bookshelf_placement"
+  ]
+}

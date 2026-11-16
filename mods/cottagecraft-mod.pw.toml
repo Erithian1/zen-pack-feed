@@ -1,0 +1,13 @@
+name = "CottageCraft Blocks"
+filename = "CottageCraft-2.1.2-1.26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcKJD9er/versions/9uwUjXV4/CottageCraft-2.1.2-1.26.3.jar"
+hash-format = "sha512"
+hash = "027e72a87970a2c6b3965933f0fd09044ca6b3a5746fee65376b5cfbd0f28e680991aec83c89cd1dd08c439d2c81d389de3b2766104658e9386aa0b854dd6c94"
+
+[update]
+[update.modrinth]
+mod-id = "pcKJD9er"
+version = "9uwUjXV4"

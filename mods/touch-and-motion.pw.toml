@@ -1,0 +1,13 @@
+name = "Touch'n Motion"
+filename = "touch_n_motion_fabric_26.3_1.0.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6da53f8aa9dd652bb15ac0cbad59bc61cb23ad20"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9524869
+project-id = 1734204

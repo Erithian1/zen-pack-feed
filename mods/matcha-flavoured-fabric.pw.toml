@@ -1,0 +1,13 @@
+name = "Matcha Flavoured Fabric"
+filename = "matcha-flavoured-fabric-1.12.9-r.1+mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9LKX5H57/versions/L8hH8eDJ/matcha-flavoured-fabric-1.12.9-r.1%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "a033d299be33c5c7da001413b21d35bb035b7c129a0ffdd154e8447491e18c87edadb804533a77d778f51a57657ac423945de98868823551b5784665cde6a277"
+
+[update]
+[update.modrinth]
+mod-id = "9LKX5H57"
+version = "L8hH8eDJ"

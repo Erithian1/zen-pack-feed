@@ -1,0 +1,13 @@
+name = "Bundle Upgrade"
+filename = "bundleupgrade-v26.3.4-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4GmQWkZz/versions/5A70ZrPP/bundleupgrade-v26.3.4-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "a23e8dee95a3eb3bed23f63b02dc647f37dc43abf6b0143cec67ea81e4398acb5d95e4d9450b7f9246b5b672dfcca52a5a622b8fd45e9536137a250c38636a84"
+
+[update]
+[update.modrinth]
+mod-id = "4GmQWkZz"
+version = "5A70ZrPP"

@@ -1,0 +1,13 @@
+name = "Diorama"
+filename = "diorama-0.9.0+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kwpTgbCk/versions/uFc7jXls/diorama-0.9.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "8a115f3b2d6fba147443df0dcdbd6370dd128f6a3ade1885d2dfb9b9b39b546ba8420f7026e037fc53dfcb308966cc5a9b446422d5f2f34c489cc33c16301136"
+
+[update]
+[update.modrinth]
+mod-id = "kwpTgbCk"
+version = "uFc7jXls"

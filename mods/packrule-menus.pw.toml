@@ -1,0 +1,13 @@
+name = "Datapack/Gamerule Menus"
+filename = "packrule-menus-3.0.0+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TR0G6vEd/versions/yl4bsXMH/packrule-menus-3.0.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "8945fc2fbc78e5425ee17fb4ee9a18271619592f47e3f3205e292718386a0e98cd225a704b2660c59c999f6ea15615a8ef567a45fd0fe112a82c46a39e715c47"
+
+[update]
+[update.modrinth]
+mod-id = "TR0G6vEd"
+version = "yl4bsXMH"

@@ -1,0 +1,855 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "5d73abdd9fad718c16e47634e541f19e255b604604e2d3e2d0cb373ce9f9f594"
+
+[[files]]
+file = "datapacks/zen-compat/data/betterend/recipe/leather_to_stripes.json"
+hash = "192a1131442025094f4f2675d7290191802406ed6cce3d2e30b179c28d32df94"
+
+[[files]]
+file = "datapacks/zen-compat/data/farmersdelight/recipe/milk_bottle.json"
+hash = "de745ca19e959695b9981cfa33e6afaefe7a24df33fff4392af56f12289c76d3"
+
+[[files]]
+file = "datapacks/zen-compat/data/friendsandfoes/loot_table/entities/wildfire.json"
+hash = "4d95a0b77b6952d1412cb60604c3a546d99bbf6c63fac187872aed75da158458"
+
+[[files]]
+file = "datapacks/zen-compat/data/friendsandfoes/recipe/copper_button.json"
+hash = "7bf87b7c7a59f57282f231117f15205d82653ccc5ae5b309937e0b3531a411d2"
+
+[[files]]
+file = "datapacks/zen-compat/data/minecraft/dimension_type/the_nether.json"
+hash = "06f709d20e456384c840a10439a1acf5cc4c8f84403770d8c4eb213407fc2ba5"
+
+[[files]]
+file = "datapacks/zen-compat/data/minecraft/enchantment/mending.json"
+hash = "68a6f0c5a989b52d9bc4d82fc687a4714ea5d945204c2c961317282471120726"
+
+[[files]]
+file = "datapacks/zen-compat/data/minecraft/enchantment/unbreaking.json"
+hash = "4b51a65fa420d7b55507dae76b49e76b8c4cfa89e92420c1e0e35f7e92ce366d"
+
+[[files]]
+file = "datapacks/zen-compat/data/minecraft/loot_table/entities/elder_guardian.json"
+hash = "6d8e62008f09ecbbc1f926c5174870fa39a79304cfe9e52f99277f500cc58780"
+
+[[files]]
+file = "datapacks/zen-compat/data/minecraft/loot_table/entities/ender_dragon.json"
+hash = "be5692395d032d6c521233ccfe43a9ca2ce059eac298aa1b1a9cba802c0b529c"
+
+[[files]]
+file = "datapacks/zen-compat/data/minecraft/loot_table/entities/warden.json"
+hash = "8dd7f306b515e79fa7981cac3b94c241123ab2edbc1c5c78bde81438e2d87d93"
+
+[[files]]
+file = "datapacks/zen-compat/data/minecraft/loot_table/entities/wither.json"
+hash = "9a1378fce773f9fac32a15352d7462ba32031023fffb55c1ed0bacfe29c24d38"
+
+[[files]]
+file = "datapacks/zen-compat/data/minecraft/tags/enchantment/in_enchanting_table.json"
+hash = "a8fe07e052f510a2108206d89a0b66644ba0121e4f3ca4b30a7ca1d3f18db32d"
+
+[[files]]
+file = "datapacks/zen-compat/data/nova_structures/loot_table/entities/sealing_ghast_boss.json"
+hash = "0b462f38d30682adbeed7e793d0efaa5da7dd9912e9bb48fd3690695b443b2e6"
+
+[[files]]
+file = "datapacks/zen-compat/data/penchant/tags/enchantment/disabled.json"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
+
+[[files]]
+file = "datapacks/zen-compat/data/penchant/tags/enchantment/no_leveling.json"
+hash = "149a3d8890d4911f5e1c5537050fefdbf01c9ea14f531a140aef4c5efa67e82e"
+
+[[files]]
+file = "datapacks/zen-compat/data/penchant/tags/penchant/flag/enabled.json"
+hash = "5da9a576154e0f31dd0e2d4a7f137cd633b925537b5b262b25c3af33650e697c"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/amethyst_portstone.json"
+hash = "e57ecf47b89a70ffc23cb6a5550e5e3d6b21fae4d3e605039843a6421ab90e3d"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/amethyst_sharestone.json"
+hash = "5ed6da94cc1644cf7337f0554d1887ba082f3b269db0cb2dfe8bf3c05b170a9f"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/amethyst_sharestone_from_ruined.json"
+hash = "5ed6da94cc1644cf7337f0554d1887ba082f3b269db0cb2dfe8bf3c05b170a9f"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/amethyst_warp_stone.json"
+hash = "2ef7c169b2a3b8f4ca639d04e779c451c55814c841445f570c00b9c167cdcd3a"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/andesite_waystone.json"
+hash = "b4807f951a95710e02d18b5c535689d8b91090a300027ee0b9e0f7a65b594ebc"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/blackstone_waystone.json"
+hash = "41864039f64187963958702f4c73059e716165fd446d82b65dce098a4cf7fb3f"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/blank_scroll.json"
+hash = "698cce460a81500d62363fca2471195935b207fe16005548a6d2a9f8e92c8f0b"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/copper_portstone.json"
+hash = "4989b209d32e816528ae6016c226100cee9a687f884427e6fcb9da030e06e668"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/copper_sharestone.json"
+hash = "b7e10ed82dde1ed96469fd82578d9a58f1633f514c50b2ac85577110d2b08572"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/copper_sharestone_from_ruined.json"
+hash = "b7e10ed82dde1ed96469fd82578d9a58f1633f514c50b2ac85577110d2b08572"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/copper_warp_stone.json"
+hash = "8284c0580bb90ea094afde2fea32e047fee23bbc7d7bee61f5bae8bfae1cf1c4"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/deepslate_waystone.json"
+hash = "70c581afd8d683c05c2753c16ab68431e776101590b3711687b1cd8bd78c2ef0"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/diamond_portstone.json"
+hash = "93259e81065c87c8e1a7a0ed949a4f13e82a12af76e1136361f1e44c7e7d0d2e"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/diamond_sharestone.json"
+hash = "d7000c7a62ad35fbf615ffb30f0589110ff0dd913d1e9959564a5fd4f0d34fcd"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/diamond_sharestone_from_ruined.json"
+hash = "d7000c7a62ad35fbf615ffb30f0589110ff0dd913d1e9959564a5fd4f0d34fcd"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/diamond_warp_stone.json"
+hash = "5d4d699364606ca6e3c5614ab5cba43917891257bf646b42a4f2898058abab74"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/dormant_shard.json"
+hash = "aead127d5a2e84a91e56aa73802fbf2889aeb9a542af368e973c4ce00df94996"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/emerald_portstone.json"
+hash = "b0049d5c5bec45f65c21f4cf6db9d711ebbcc25353e899c538e209d0e647ddba"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/emerald_sharestone.json"
+hash = "226ba7832366b9039d9752dcedd930b0b40d58c814050e019079f67fcdd67600"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/emerald_sharestone_from_ruined.json"
+hash = "226ba7832366b9039d9752dcedd930b0b40d58c814050e019079f67fcdd67600"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/emerald_warp_stone.json"
+hash = "3585137ab31110fd02809de95c44f24078e3b2b6b5725b078cb0e7db1d35a6b9"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/end_stone_waystone.json"
+hash = "89390b6c2aa0e6ad4dfe94c5eca364b71db62db46d8d01a2e7ed432c469874ff"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/epitaph.json"
+hash = "85684ad99ebc4f83f0abffc2430eb26e387b8e27a5f1fbd84198ee8482d710db"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/gold_portstone.json"
+hash = "8dd77ee2745755c08fb3ab76b434d4e9425a9a4e56a1da4b82407e267e5bd918"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/gold_sharestone.json"
+hash = "6302e0a3db9e3b94394ff09c9cf7b6038202c2e951546cfde58f32fd6580f59b"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/gold_sharestone_from_ruined.json"
+hash = "6302e0a3db9e3b94394ff09c9cf7b6038202c2e951546cfde58f32fd6580f59b"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/gold_warp_stone.json"
+hash = "0c439e701b916c01325bfff503f30c26f4ff8fb583a39cb17447d1f99be79760"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/lapis_portstone.json"
+hash = "6b940f6a267e978e0ac010f252470ff99123fc17fcfd02019b7388bb0bc76405"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/lapis_sharestone.json"
+hash = "3904a88679904d8c468ef88de9724169b1aa8c9698909743154db6683dd92448"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/lapis_sharestone_from_ruined.json"
+hash = "3904a88679904d8c468ef88de9724169b1aa8c9698909743154db6683dd92448"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/lapis_warp_stone.json"
+hash = "1e3bc7bdd543feb84093be49cf695541a5150baddca08e3403c72129ad9d2a89"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/mossy_andesite_waystone.json"
+hash = "6207f3485515ab9e88336df078b64fa6ae23936272db10c75a29e4bb6bc098c0"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/mossy_waystone_from_moss_blocks.json"
+hash = "6207f3485515ab9e88336df078b64fa6ae23936272db10c75a29e4bb6bc098c0"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/mossy_waystone_from_vines.json"
+hash = "6207f3485515ab9e88336df078b64fa6ae23936272db10c75a29e4bb6bc098c0"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/mud_bricks_waystone.json"
+hash = "7b7c612767b12085c1e2a0e6e4fe8d0d7b5d167b58d32380b873cb6993cbfaa6"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/portal_scroll.json"
+hash = "854db762bb9825c5e234baec0c062cffe2f2d42b1a5920efe50ed91f3c81d69b"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/portstone.json"
+hash = "2a703c83e3881db497721f1cc647f58bb951a7c4863088a62ecee700db1c4a26"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/prismarine_portstone.json"
+hash = "4de26a7c069dac47f42f58f76d315f94de0ce290468e3eaff0b49a685fa2d1dd"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/prismarine_sharestone.json"
+hash = "4bffeaa4f6050660aa4eabbffdf5dd234b06d3b3b4ff1e00afe990fd43a8506a"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/prismarine_sharestone_from_ruined.json"
+hash = "4bffeaa4f6050660aa4eabbffdf5dd234b06d3b3b4ff1e00afe990fd43a8506a"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/prismarine_warp_stone.json"
+hash = "ce9aed4ac538b507381b0433b9d07a7d41541bbc1eb3838fab39b123571deae3"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/prismarine_waystone.json"
+hash = "60ea48f25b0f5e8955823259c44051a001be40e71e148118951adacabb17077b"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/purpur_waystone.json"
+hash = "5b0a3e7e0c437e05c108288c9ba78cc33ba48f2120029466eced61a4cd8835ea"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/red_nether_bricks_waystone.json"
+hash = "f8ec806b0d44a365ffdcb464965bd452c01ae836e4e13d9bb0802bc466bdac3d"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/redstone_portstone.json"
+hash = "c9c70aba61ebc48464116ba15678ddc4282e4c25d6c1c5ef1a71eb1420ae588c"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/redstone_sharestone.json"
+hash = "bb9d9b32a336da995ded2232b4d02244f51d5c74e26bbef08ceeee6e48305607"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/redstone_sharestone_from_ruined.json"
+hash = "bb9d9b32a336da995ded2232b4d02244f51d5c74e26bbef08ceeee6e48305607"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/redstone_warp_stone.json"
+hash = "39eb14774866f10088d53eafbb8638e66c9b67bceb51992ec91c3b74e8b86d7f"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/return_scroll.json"
+hash = "5e29fca8adedb8814d680c8167d6766e290781214b5a3f11ebda8e311c7f3cef"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/sandstone_waystone.json"
+hash = "5713b0ee298dffa14c380578b01ca3c65627623b639fb0a70e01e0d7daede30d"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/twinbound_feather.json"
+hash = "a0a2745c9bdabccf4ac3d1eea896dd50f6bfb48d5bcec2819d23c2905a27138e"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/warp_plate.json"
+hash = "06f5dc81f3b8a5156db64ab0ad731d7adb148e4e91fea96ab722c0b8d1575db7"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/warp_scroll.json"
+hash = "386d01488c8f81547c39818bc972c8d4c0e38458839bdd6194cc9ba0834a8888"
+
+[[files]]
+file = "datapacks/zen-compat/data/waystones/recipe/warp_stone.json"
+hash = "1cc7d159519d4fc568dd589a4690cd825dcae158a89620098eb71dcd3c5b40ad"
+
+[[files]]
+file = "datapacks/zen-compat/data/zen_compat/recipe/enchanting_table.json"
+hash = "c0a34ef8785b6e867213a3896988b8053a30c25cf890eb1683a61b294be4ffa5"
+
+[[files]]
+file = "datapacks/zen-compat/pack.mcmeta"
+hash = "cc5f4d5b6c5dbb91453846cfb49e157e29470b7193060b579db332f14a87b120"
+
+[[files]]
+file = "global_packs/required_resources/matcha-flavoured.pw.toml"
+hash = "6c89416d11fd125dfbdd14d654e9caa13ca0069162152b65f09f31d7323559fd"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/zen-readable-enchanting/assets/minecraft/font/alt.json"
+hash = "6702ad0dde2e22efaa1f8d2025a8d79acaf17a35446e7ff77fa1ff7855bb326d"
+
+[[files]]
+file = "global_packs/required_resources/zen-readable-enchanting/pack.mcmeta"
+hash = "fec3b7077c10ab50964c83b496d9c7b54015ee3dc253d6361b08befd9958e845"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "bb194ec7f1affde2fb2d6d052683e96babe72b693e4c3263dfd8245d3941b701"
+metafile = true
+
+[[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "650dac1687fb0ba238dfd690fda72e41e3cdd3a9507cb2cd49980839307ae675"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "220a55f27ae0b5dbcf111bc720ff9b0e3c1255b095dcc80ec77f25bc7bc0d07d"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "3f529d5fd5e99dbcba1364cfc68eefc9235e6956dcd05f4c6554116f89d9c9c9"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "86f104798ef13833f87b07845e3055e34b08eb25a1756379c63299eb679a7183"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "1902870887f8aa75b3b1880bc7295d10312265dac408d361aad6019f2cb56872"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "b6476f8c07b48528018d237e0f5c916e7aeb6dafc94a99d09fe3ac2332c03da8"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "1cd49ee482e404ef8f4e3950bcec50ba325db1831f9b55cc272360b73ead68e0"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "458c5c4773389856f4a569b0df103445e06813c830ffbeacab213fdf7eb934b8"
+metafile = true
+
+[[files]]
+file = "mods/bundle-upgrade.pw.toml"
+hash = "71c6fc2d0073a1763156a8e7fe198f9369214f3df14c9f5ff7c337c3bf5316ec"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7959f11cce0c14ffae150d4a3126b04b70b0af815d25453110d2a8408011e9cb"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b6e76b7a0d0355c542e5a6fca02e4ef452f6d9c0610da3b02f8554177e3bec31"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
+metafile = true
+
+[[files]]
+file = "mods/cosy-critters.pw.toml"
+hash = "6022022510f058ea6ceeac84455b13f79b4a7f8625ec588543d2485d7c3f3571"
+metafile = true
+
+[[files]]
+file = "mods/cottagecraft-mod.pw.toml"
+hash = "4c023a34a119e74f992d379d733271ecf4fb8f40b695781f6403802cc63a2b67"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "e1d2c5cd8021b81b16ec7d09302ad6ee7420bfecae68d39bc1ba035aebb3ed35"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "26d1ab497ef70c80f9a429872faa0efcc308c36db4e8f42c78325a46b7f4c58c"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks-reborn.pw.toml"
+hash = "65ce5770f9b01ea8d337ffec8dcf95c46331fe505bc1df3c4dc68000fbc3d2d3"
+metafile = true
+
+[[files]]
+file = "mods/diorama-map.pw.toml"
+hash = "7a3b903b2ba11625ff1ac174b896be47333ad34291cb43f603ce4dd670a7aa0a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "6f1b4c4dcdeaee92a42a749c5295a39c23ae72e500fb6e4a8baf65fde0f6f84a"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "d7430347e7f07205e58f22a5689aba739088bb69647cf2c070f40ea320eac205"
+metafile = true
+
+[[files]]
+file = "mods/emf-compat-core.pw.toml"
+hash = "03e6745f327c4100ef264bacbd90f73017c196588895eebcd130906e33b20c33"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "6a0b784894a89998db3e680b7cdeaf7926b3cd40f452d4cc980985e829ae4cc6"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "d00381d69d0dba1911229acbc2f89887026d72cc0270a27c94c1e7d06a61fd19"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "29f920b8bdac98a1a1d9e6454d0c3b4d0eb1f3779f2fea7b7df177b2163e5d61"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "c029d9c7873a6f072332e97d54422efa438bc8ae81d53bd1c078a6dd1644f0ce"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "c1f2d0a1537909b2b2c37aa8576af52f21b6f52ee18048310e48ab7169b87f57"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "133a8fa53146424351e19d604b1d47a100797a3361b8cb3c2ee8971ee84f63b4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f83ce3ae77036e262c360052c101291836a8cb6559c27f18ea91e2943a97ec49"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "58d5cb5d3361d35f10eb65b5e2801cdbfbb0d8ec522982a6ae68f5d335ee9e06"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "95bd6344ae23c9fc446b1878b2e7db35b94e95b27e98fde99b58164e74981898"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/flan.pw.toml"
+hash = "875e5afe18a06d09c306a86130261504fd5fc03c6e39094fe18809556cf50486"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3eb12471fce0aadbda432f7fd5ba4e2120e0e0ebbb3663eea756a17ec0254407"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "1651b6f7658f77b3d4b4d49ff6bb7c6397f5814da5c3ef00225b709dd1c0f979"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "c42df1fd80f82bbc880f52a0528bdd88e35e8c16c6f8f1a70fd65599bfe62879"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "7422583b1b0846e9899142d0b97fd6ed399bbafd5f2252798d4f109d024d8839"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a7f6a1543f41198911a8b1e5e059fa0c8003365ebd6c2314e2dfa0806aff300a"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "d49e0c0d14899c4c7456500b531639a5f621178324000d2d66a3e794ff588621"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "6a9c2f3995f8bf6d9b5dc0f711f22665c3c0ad488b0f4f04cf423c6f1f305ba6"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "742b12928fa5f288671d113e7aa3bf18d83219f7e064964b84f61050f314df2e"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "c7289d4aafd5dc73762ee0ab6389ea2fd49f65e2f892bb22784a03d419521747"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4d8432eed6984a86acf6c9f056755b3f9082eb8fcb5b3f37e96498e7871e40c9"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "1bcd8fa2d0c2c3390361736420236c2a5331002ae36bb5cba5a062b8708b5ee9"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b44f3ab71e52f1aaae97cf8644f2316042de8b7777d6b6794567c8c7d220bd2b"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "ccee57f34e035e85ebb41db22ba255b61aa885f69bd8ef2f7b818be7fa546750"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "c2150bef66c3ded85efadd0c0f9a1d496188104ae158510a845cac1b288cb84e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "68554f591ad55ba4f5a4dc6ba9f498e9f6900dc04941d852510d69c1a053cbaa"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "30b0a354124f47857f98efda5edf5e469f02204e023c51b796fbd63ff81317e8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "f9a00b6976d7bcbeb263bc07c84e23d20b2dc2e77664c25c684adf009559de01"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "5d8eaf5cbdb71cf0feb12abc80b56ceaed54e0fd04263c4373d1260551e29b0c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "59ad293d3603acd564aa6bff0dfcddf221562b56ffe0c2d0636781aafad9fc8b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "e2a7155fc1ea307ccc80ca85be651959cda26700b13e5a6ff59475f17b48529b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "e0491cbc70bc52caec7e89300a51cbb8ad7922ef35b4c423397275a789bfdf46"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "57fdbf7cb0b77dab9fefcced4c8c26e03ca8d8614efd3c06cfa10e931fc7eb50"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "fe1e2b6224725000b41088f9151487f1fe323c5c86cabc689da6c8f4af7ff06e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "c6eee5874c30c80115e720a145eb7c3ff4b71fe7b4b718b23811cf9bde5cf02e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "fd96bc946499b45343ef4a7296be44ce3e99eb9d6c6e46a9560fb384cc64fc3d"
+metafile = true
+
+[[files]]
+file = "mods/matcha-flavoured-fabric.pw.toml"
+hash = "65841633cf7fed625e6cb9ff0698abf88730e8bb13f1c61459e0871f40fff048"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "b4eee8204d2dd73e626cec0c0687595ba40370ae95a40b56fc6874c951c05633"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "f364f593df41130f37f525028432f9a3e1501e5781605482a1f28631cf807284"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "a0fefd25252e1dfac7da103d64436b9d7579b5cf404fd664139c4db079f40897"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "d9f809b321cdd117600e45f92215c8e750ed0b65641c18d394bb4c111019581d"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "78ab150a184232f30cc779f1f3de277586c98b2eb314f85dc228d235e6ea2528"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "15e7405fb9ffa10e8b64234e41ab5031a0ea3c20625aeac25e23334c8f1307c0"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "54019b98e621d0ab792d7a2de0f8f2714660e367790b17ffa0ac902344166396"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "353e7e6605f04764a8fc7f18d7e1833ffd23301f23509a85482654f467fb696f"
+metafile = true
+
+[[files]]
+file = "mods/packrule-menus.pw.toml"
+hash = "698db48ff04914a07c240a2fa603b555de1e30cbe1f6bce45a1c151589990c30"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "1a31037c97686812f127821558cf49e4047e71421f60d41b43cf2629cfe3ae13"
+metafile = true
+
+[[files]]
+file = "mods/penchant.pw.toml"
+hash = "0f9c202ed0da7070336803c251eda39e975058f8e908a15192c880a398b3b4bb"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "6c5e84a22bd6aaee4f7bb99f31ea81905b366e54fb945f0463a2de6eb9f2ff5a"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "edcf67f591069ab1b95b375c673bce575b56869ae3ca3adccc6cfb7bf76e70ab"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "279d7c9d5c8f3c2ba00181c7be8b4de3d6f51174301cb9eff632db1cb34a5477"
+metafile = true
+
+[[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "0e9e54ca048f3d8e444ac2fe4e770a8caa1c0e5ef369c199a55ab62f9cfa94ad"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "1d781325cf9001dddce371f093e679e84e93024d62cc28e367343c4cc1d8ca04"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "7eefa70e80d94e4b57093c9e5a07076907c559cf739df81558d4bd7e08dad478"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "003fbaec9c73dd1805d7be7008ffaef13985621dba4ebac4b4ff6d1fc7757d55"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "e6ca37d8afd4ff9cdaa25aeac50578651da148ba9de3f37794bde6af82460ec0"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "8ab8d9da45456dfc8146a7d4b4b4243c69ba5b4375d086f361bf23df6e14988a"
+metafile = true
+
+[[files]]
+file = "mods/shogi.pw.toml"
+hash = "7dce4255d013864163503866db2a902f7071d64ef184c3d40189c1ac9641a7f2"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6865b44c30baa85a87c344ac9d3e0eb0135e90b26a90a6dc28bf79a363170cf9"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "54d699d9ba85bb08b9fd3696a11c7449ea1175a118805855143e1c88fa54aa6b"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "9bab2f7038705a3a14c522ef378743465a596f2d1e28305c2c9a291cbb7d6289"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "8d085d6b1eb2997751a07faf6e9f10d1da615a05f5813d1a82410ac2fd58f8ae"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "5e91e5aea16a60450da6df9c5cdb056ae5f2d25967fcc8b16c7ccb3a7403b7c9"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "fd6695e8df74616ed4ccf6366dc44f1cc242a49af9eed857210a72bebdbfdc20"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "acde42a8fb5c6bb52edce15df8998fbdb5d68de8017b7d5dcf3d2e6a84aed660"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "30520ec5c59d3dca148a45ffe1e59f2795255b6950bf841f5e56fb836fd196b5"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "75ad2ba74354543d60233a4814d1d9f65e3b1847b1e555626d586fcc0441e2da"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "f690f6b906c8bf030587b239f23fb45651051de3d18bda5c4385a4687dfa317c"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "11753ff4740122b98d7b0aae3eccda9a4ff289c23448c7abfd0c8dbc425b10c7"
+metafile = true
+
+[[files]]
+file = "mods/touch-and-motion.pw.toml"
+hash = "69f034c2d12e0382351130eedebd958c3cd49a795f664a5da36e64d79a231f71"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "4e491951aa63bf70f11242b8165673e88fdb01e7b4510f4aa50d61d60dc3b266"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-updated.pw.toml"
+hash = "e42d9b9488b43a065f5e1aafd4e8802a42568a9be4737888ba8d6b2af7a7c500"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "654073f6a13203019cd895e3a4d2d531efc1c40f1f1c385b082473584ff0af48"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "19ae82550e2d7e5a444bb3c5c49777ecf6dfd6334e286ad499ca17235587d2ed"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "03ae9ef3b69a07ce1f40cb2cfcba63108005a2d0905883682e70bd18696dfffc"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "48b38761fcba5b2eaf000d1e03d6dd8b0985d30bd4a230469dfed8d2389f2f1d"
+metafile = true
+
+[[files]]
+file = "mods/weather-glass.pw.toml"
+hash = "b573afcbee23e3e6a701273f523c0ec0a0a082e65875c5a795f7ebe4c6efa871"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver.pw.toml"
+hash = "4b683e6dc2c13b2aec9d061149701e31ea3474d1cb1f0f10c317078ff577d5c0"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7b82bfcde20d2ac0fb158c003caf5288523272ca462f519864ee424912e4e4dd"
+metafile = true
+
+[[files]]
+file = "mods/zen-etching-0.1.0.jar"
+hash = "4fa410da98de0e1b173528b2dc9196b32ee4956191daee7da6e5c29d58cc8fca"
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "15bec6a102b4dcf9470ba80b3ce9992fb9e67d2c19b17773e23ad98c15618ec2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b588662439509c0c1779965edc119b4091d7409e127109fac256570d9a61f872"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "507cb3963240110bc71ed7c75cac1682e66d3609536b0bc5ef90a01db3cce21f"
+metafile = true

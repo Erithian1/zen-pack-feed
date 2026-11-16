@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": "minecraft:barrier"
+  },
+  "pattern": [
+    "B"
+  ],
+  "result": {
+    "id": "waystones:warp_stone"
+  }
+}

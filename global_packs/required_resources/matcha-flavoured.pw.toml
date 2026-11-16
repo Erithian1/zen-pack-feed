@@ -1,0 +1,13 @@
+name = "Matcha Flavoured"
+filename = "MFRP_1_12_9_26_3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QI0EmgZ1/versions/4jN424Lk/MFRP_1_12_9_26_3.zip"
+hash-format = "sha512"
+hash = "3ae135518e18bfe16c1a9ed45a69b19f7344bd42bb5bae037b29a624fa1224afe5448dee8f49b227291e8998bae718ad827f2ccfd7e9c6c87cfa1c441ecf025b"
+
+[update]
+[update.modrinth]
+mod-id = "QI0EmgZ1"
+version = "4jN424Lk"
